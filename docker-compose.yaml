@@ -1,0 +1,15 @@
+version: "3.7"
+
+services:
+
+ generate_mimic_data:
+  build: .
+  volumes:
+   - ./:/generate_mimic_data/
+  stdin_open: true
+  tty: true
+  deploy:
+   resources:
+    reservations:
+     devices:
+      - capabilities: [gpu]
