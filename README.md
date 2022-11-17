@@ -62,7 +62,7 @@ This repository has been tested with the following requirements; however, it may
 
 ### Clone the repository
 
-The repository can be cloned with the command: ```git clone https://github.com/javiersgjavi/sepsis_repository.git```
+The repository can be cloned with the command: ```git clone https://github.com/javiersgjavi/tabular-mimic-iii.git```
 
 ### Generate the base data
 
