@@ -1,3 +1,5 @@
+[![DOI:10.1007/s10489-023-05124-z](http://img.shields.io/badge/DOI-10.1007/s10489--023--05124--z-32a852.svg)](https://doi.org/10.1007/s10489-023-05124-z)
+
 # Repository to generate tabular data from MIMIC-III dataset
 
 This repository contains the data to generate the main dataset used in the article: [Comparing artificial intelligence strategies for early sepsis detection in the ICU: an experimental study](https://doi.org/10.1007/s10489-023-05124-z)
