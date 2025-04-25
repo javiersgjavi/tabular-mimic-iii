@@ -1,5 +1,9 @@
 [![DOI:10.1007/s10489-023-05124-z](http://img.shields.io/badge/DOI-10.1007/s10489--023--05124--z-32a852.svg)](https://doi.org/10.1007/s10489-023-05124-z)
 
+> [!WARNING]  
+> This repository is deprecated as it does not work with changes that were made later in [MIT-LCP/mimic-code](https://github.com/MIT-LCP/mimic-code), to have a version that still works I recommend to use my other [mimic-III-repository](https://github.com/javiersgjavi/mimic-III-tabular)
+
+
 # Repository to generate tabular data from MIMIC-III dataset
 
 This repository contains the data to generate the main dataset used in the article: [Comparing artificial intelligence strategies for early sepsis detection in the ICU: an experimental study](https://doi.org/10.1007/s10489-023-05124-z). To cite the original article, please use the following guide:
